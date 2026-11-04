@@ -6,3 +6,5 @@ threadpoolctl==3.7.0
 # tests only
 pytest
 qiskit==2.6.1
+# notebook only
+jupyter
